@@ -1,0 +1,19 @@
+{
+  "name": "citasjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chromedriver": "^86.0.0",
+    "crypto-js": "^4.0.0",
+    "geckodriver": "^1.20.0",
+    "mocha": "^8.2.1",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
